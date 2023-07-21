@@ -1,8 +1,3 @@
----
-title: MonetTheme (by nexpid, Taki_Shiwa)
-description: Monet (M3) theme generator
----
-
 <div align="center">
     <h1>MonetTheme (by nexpid, Taki_Shiwa)</h1>
     <h3>Monet (M3) theme generator</h3>

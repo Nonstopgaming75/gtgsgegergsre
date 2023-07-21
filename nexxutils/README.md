@@ -1,8 +1,3 @@
----
-title: NexxUtils (by nexpid)
-description: Nexx's utility plugins
----
-
 <div align="center">
     <h1>NexxUtils (by nexpid)</h1>
     <h3>Nexx's utility plugins</h3>

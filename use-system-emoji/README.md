@@ -1,8 +1,3 @@
----
-title: UseSystemEmoji (by nexpid)
-description: Uses system emoji instead of twemoji for messages
----
-
 <div align="center">
     <h1>UseSystemEmoji (by nexpid)</h1>
     <h3>Uses system emoji instead of twemoji for messages</h3>
