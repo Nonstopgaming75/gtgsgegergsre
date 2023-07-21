@@ -1,3 +1,8 @@
+---
+title: CustomRPC (by nexpid)
+description: Displays a custom RPC activity on your profile! (idea from Vencord) (RECODED)
+---
+
 <div align="center">
     <h1>CustomRPC (by nexpid)</h1>
     <h3>Displays a custom RPC activity on your profile! (idea from Vencord) (RECODED)</h3>

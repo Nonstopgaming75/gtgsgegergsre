@@ -1,3 +1,8 @@
+---
+title: PluginBrowser (by nexpid)
+description: Browse all proxied plugins
+---
+
 <div align="center">
     <h1>PluginBrowser (by nexpid)</h1>
     <h3>Browse all proxied plugins</h3>

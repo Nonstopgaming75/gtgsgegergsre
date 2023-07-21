@@ -1,3 +1,8 @@
+---
+title: MessageMarkdownPreview (by nexpid, pylix)
+description: Preview markdown when typing a message
+---
+
 <div align="center">
     <h1>MessageMarkdownPreview (by nexpid, pylix)</h1>
     <h3>Preview markdown when typing a message</h3>

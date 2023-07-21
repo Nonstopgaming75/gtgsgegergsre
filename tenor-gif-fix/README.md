@@ -1,3 +1,8 @@
+---
+title: TenorGifFix (by nexpid)
+description: Download and share Tenor links as GIFs instead of MP4s (thanks to rosie <3)
+---
+
 <div align="center">
     <h1>TenorGifFix (by nexpid)</h1>
     <h3>Download and share Tenor links as GIFs instead of MP4s (thanks to rosie <3)</h3>

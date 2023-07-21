@@ -1,3 +1,8 @@
+---
+title: Freemix (by nexpid)
+description: Allows you to remix images for free lol
+---
+
 <div align="center">
     <h1>Freemix (by nexpid)</h1>
     <h3>Allows you to remix images for free lol</h3>

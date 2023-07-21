@@ -1,3 +1,8 @@
+---
+title: CloudSync (by nexpid)
+description: Syncs your plugins and themes to the cloud
+---
+
 <div align="center">
     <h1>CloudSync (by nexpid)</h1>
     <h3>Syncs your plugins and themes to the cloud</h3>

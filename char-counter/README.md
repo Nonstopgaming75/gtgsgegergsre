@@ -1,3 +1,8 @@
+---
+title: CharCounter (by nexpid)
+description: Adds a counter above the chat input
+---
+
 <div align="center">
     <h1>CharCounter (by nexpid)</h1>
     <h3>Adds a counter above the chat input</h3>

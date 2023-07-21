@@ -1,3 +1,8 @@
+---
+title: BetterTimestamps (by nexpid)
+description: Send timestamps using text shortcuts (port from Vencord)
+---
+
 <div align="center">
     <h1>BetterTimestamps (by nexpid)</h1>
     <h3>Send timestamps using text shortcuts (port from Vencord)</h3>

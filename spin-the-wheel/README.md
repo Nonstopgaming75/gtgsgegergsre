@@ -1,3 +1,8 @@
+---
+title: SpinTheWheel (by nexpid)
+description: horrible plugin
+---
+
 <div align="center">
     <h1>SpinTheWheel (by nexpid)</h1>
     <h3>horrible plugin</h3>
