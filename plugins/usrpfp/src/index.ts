@@ -4,7 +4,7 @@ import { stopPlugin } from "@vendetta/plugins";
 import { id } from "@vendetta/plugin";
 
 export const dataURL =
-  "https://raw.githubusercontent.com/Yeetov/USRPFP-Reborn/main/db/data.json";
+  "https://raw.githubusercontent.com/Nonstopgaming75/USRPFP-Reborn/main/db/data.json";
 
 export let enabled = false;
 
